@@ -18,11 +18,16 @@ Java와 Spring 기반의 백엔드 개발을 공부하고 있으며,
 
 ## 📘 대표 프로젝트
 
-### 💰 [계좌 관리 콘솔 앱](https://github.com/dev-sungjun23/account-manager-console)
-> Java 객체지향을 연습하며 만든 콘솔 프로그램  
-> 입금, 출금, 잔액조회, 계좌 검색, 테스트 코드 포함
+💰 계좌 관리 콘솔 앱  
+Java 객체지향을 연습하며 만든 콘솔 프로그램  
+입금, 출금, 잔액조회, 계좌 검색, 테스트 코드 포함  
+🔗 자세한 설명은 README에서 보기
 
-🔗 자세한 설명은 [README에서 보기](https://github.com/dev-sungjun23/account-manager-console)
+💳 계좌 관리 REST API  
+Spring Boot로 만든 간단한 계좌 관리 API 프로젝트  
+계좌 생성, 조회, 입금, 출금 기능을 제공하며  
+Postman으로 테스트 가능하고, 환경 설정 파일도 포함  
+🔗 [자세한 설명은 README에서 보기](https://github.com/dev-sungjun23/account-manager-api/blob/main/README.md)
 
 ---
 
