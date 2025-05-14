@@ -24,9 +24,11 @@ Java 객체지향을 연습하며 만든 콘솔 프로그램
 🔗 [자세한 설명은README에서 보기](https://github.com/dev-sungjun23/account-manager-console)
 
 💳 계좌 관리 REST API  
-Spring Boot로 만든 간단한 계좌 관리 API 프로젝트  
-계좌 생성, 조회, 입금, 출금 기능을 제공하며  
-Postman으로 테스트 가능하고, 환경 설정 파일도 포함  
+Spring Boot 기반의 학습용 계좌 관리 API 프로젝트  
+- 계좌 생성, 조회, 수정, 삭제 기능 구현  
+- Swagger를 활용한 API 문서 자동화  
+- Postman을 통한 요청/응답 테스트  
+- Dockerfile 작성 및 컨테이너 빌드/실행 경험  
 🔗 [자세한 설명은 README에서 보기](https://github.com/dev-sungjun23/account-manager-api/blob/main/README.md)
 
 ---
