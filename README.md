@@ -33,12 +33,12 @@ Java 객체지향 설계 및 컬렉션 활용을 연습한 콘솔 기반 계좌 
 ### 💳 계좌 관리 REST API
 
 Spring Boot 기반의 학습용 계좌 관리 API 프로젝트  
-- 계좌 생성, 조회, 수정, 삭제 기능 구현  
+- 계좌 생성, 조회, 수정, 삭제 기능 구현
+- JPA + H2 DB 연동  
 - Swagger를 활용한 API 문서 자동화  
 - Postman을 통한 요청/응답 테스트  
-- Dockerfile 작성 및 컨테이너 빌드/실행 경험  
+- Docker 실행 환경 포함
 🔗 [자세한 설명은 README에서 보기](https://github.com/dev-sungjun23/account-manager-api/blob/main/README.md)
-
 
 ---
 
